@@ -1,6 +1,6 @@
 # Credit Risk Modeling and Scorecard Development: Technical Documentation
 
-This document provides a comprehensive overview of the theoretical foundations, mathematical formulas, and business concepts utilized in the development of Application Scorecards for Credit Risk Analysis. It is intended to serve as a formal technical reference for data scientists, risk analysts, and stakeholders.
+This document provides a comprehensive overview of the theoretical foundations, mathematical formulas, and business concepts utilized in the development of Application Scorecards for Credit Risk Analysis.
 
 ---
 
